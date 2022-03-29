@@ -1,2 +1,2 @@
 # Simon-Game
-To check your memory skills. Repeat the pattern that blinks but also click the pattern that was before.
+The device creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over.
